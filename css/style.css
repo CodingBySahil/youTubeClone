@@ -117,3 +117,8 @@
   height: 6em;
   background-color: #ffffff;
 }
+img:hover{
+  cursor: pointer;
+  scale: 1.1;
+  transition: 600ms;
+}
